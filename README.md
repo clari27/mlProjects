@@ -1,5 +1,5 @@
 
-Personal Data Science project for study purposes. 
+#Personal Data Science project for study purposes. 
 
 The main objective of this project is to determine the maximum number of trees in Random Forest Regressor Algorithm in order to obtain the maximum accuracy on predicting the quality of the red variant of portuguese "vinho Verde". After prior number of trees' determination, the program calculates the mean absolute error between actual quality and predicted qualities.
 
