@@ -1,3 +1,3 @@
-# mlProjects
-# Projeto pessoal de estudo sobre ciencia de dados.
+ mlProjects
+Projeto pessoal de estudo sobre ciencia de dados.
 
